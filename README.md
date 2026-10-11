@@ -257,5 +257,6 @@ Submit a pull request with a clear description.
 📄 License
 
 This project is intended for learning, experimentation, and portfolio development.
-this repository is published as MIT-licensed.
+
+This repository is published as MIT-licensed.
 
