@@ -175,7 +175,7 @@ All other extensions
 
 🎯 Example
 
-Before Sortly
+~ Before Sortly
 
 Downloads/
 ├── resume.pdf
@@ -184,7 +184,7 @@ Downloads/
 ├── project.py
 └── archive.zip
 
-After Sortly
+~ After Sortly
 
 Downloads/
 ├── Documents/
